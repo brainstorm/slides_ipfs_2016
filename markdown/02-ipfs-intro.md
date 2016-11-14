@@ -21,6 +21,12 @@ Distributed infrastructure
 TCP/IP, BitTorrent, Internet!
 
 
+TechCrunch
+----------
+
+![ipfs_too_late](res/ipfs_too_late.png)
+
+
 Interplanetary File System
 --------------------------
   * A Distributed, peer to peer HTTP.
@@ -28,6 +34,14 @@ Interplanetary File System
     * BitTorrent
     * Git
     * Blockchains
+
+
+IPFS Stack
+----------
+
+![distributed](res/ipfs_stack.png)
+
+/via @juanbenet
 
 
 BitSwap

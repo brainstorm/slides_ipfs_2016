@@ -3,7 +3,7 @@ This slide deck is based on the fantastic [reveal.js framework](https://github.c
 ## Quickstart
 
 ```
-git clone https://github.com/brainstorm/slides-tmpl
+git clone https://github.com/brainstorm/slides_ipfs_2016
 npm install
 npm start
 ```
@@ -15,7 +15,3 @@ The builtin reveal.js PDF converter does not work properly, therefore I would su
 ```
 $ docker run --rm --net=host -v `pwd`:/slides astefanutti/decktape http://<ABOVE_NODEJS_INSTANCE_IP>:8000 slides.pdf
 ```
-
-## Video of the talk
-
-[![example youtube talk](http://img.youtube.com/vi/<YOUTUBE_HASH>/0.jpg)](http://www.youtube.com/watch?v=<YOUTUBE_HASH>)
